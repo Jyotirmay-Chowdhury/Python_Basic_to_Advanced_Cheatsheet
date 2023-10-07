@@ -33,9 +33,4 @@
 31) Python User Input
 The Last Functions in Python"""
 
-# Python Get Started and Syntax
-print("Hello, world!")
-
-# Python Comments:-  
- # Simple comments
 
